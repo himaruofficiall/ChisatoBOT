@@ -1,12 +1,12 @@
 {
-    "ownerNumber": ["YOUR_NUMBER"],
+    "ownerNumber": ["6283819654409"],
     "teamNumber": [],
     "timeZone": "Asia/Jakarta",
     "prefix": ".",
     "maintenance": [],
     "stickers": {
-        "author": "Instagram : ini.tobz",
-        "packname": "Made by ChisatoBOT"
+        "author": "Instagram : abcd3rik",
+        "packname": "Made by HimaruBOT"
     },
     "settings": {
         "ownerNotifyOnline": false,
